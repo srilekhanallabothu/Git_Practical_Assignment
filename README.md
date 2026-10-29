@@ -11,3 +11,6 @@ Learning Outcomes:
 - Checking Git status
 - Staging files
 - Committing changes
+Project Status:In Progress 
+Version:2.0
+I havee successfully pushed my project to GitHub.
