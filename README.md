@@ -14,3 +14,8 @@ Learning Outcomes:
 Project Status:In Progress 
 Version:2.0
 I havee successfully pushed my project to GitHub.
+Git Clone, Fetch and pull Practice
+I am learning how to synchronize local and remote repositories.
+Git Clone: Copy a repository.
+Git Fetch: Get remote updates.
+Git Pull: Download and integrate remote updates.
